@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20090914 at Fri Jul 18 09:44:47 2014
+ By www-data
+Typeface ?(your company). 2014. All Rights Reserved
+</metadata>
+<defs>
+<font id="xiunen" horiz-adv-x="1800" >
+  <font-face 
+    font-family="xiunen"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="2 0 5 0 0 0 0 0 0 0"
+    ascent="1638"
+    descent="-410"
+    bbox="-0.00195312 -165 1799 1500"
+    underline-thickness="150"
+    underline-position="-142"
+    unicode-range="U+F000-U+F000"
+  />
+<missing-glyph 
+d="M102 0v1092h1596v-1092h-1596zM204 102h1392v888h-1392v-888z" />
+    <glyph glyph-name=".notdef" 
+d="M102 0v1092h1596v-1092h-1596zM204 102h1392v888h-1392v-888z" />
+    <glyph glyph-name="\uF0000" unicode="&#xf000;" 
+d="M170 935c-29.333 14 -56.335 33.333 -81.002 58c-59.333 58 -89 128.333 -89 211c0 81.333 29.333 151 88 209s130 87 214 87c83.333 0 154.666 -29 213.999 -87c18 -18 33 -37.333 45 -58c102.667 49.333 215.667 74 339 74c124.667 0 238.334 -25.333 341.001 -76
+c12.667 21.333 28.667 41.333 48 60c58.667 58 129 87 211 87c82.667 0 153.167 -29 211.5 -87s87.5 -127.667 87.5 -209c0 -82.667 -29.333 -153 -88 -211c-25.333 -25.333 -52.666 -45 -81.999 -59c32.667 -84.667 49 -176.667 49 -276c0 -185.333 -58 -347.333 -174 -486
+l55 -99l240 -238l-497 162c-118.667 -73.333 -252.667 -110 -402 -110c-215.333 0 -399.166 75.333 -551.499 226s-228.5 332.334 -228.5 545.001c0 99.333 16.667 191.666 50 276.999z" />
+  </font>
+</defs></svg>

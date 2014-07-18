@@ -18,7 +18,7 @@ XiunenFont
 
 3 使用其中的字体，现在提供了10个字，对应的字和class如下：
 
-![github](https://github.com/xiunen/XiunenFont/icon.jpg "github")  
+![github](https://github.com/xiunen/XiunenFont/blob/master/icon.jpg "icons")  
 
 如何制作自己的字体
 -----------------------------

@@ -5,8 +5,20 @@ XiunenFont
 
 如何使用XiunenFont
 ------------------------------
+1 下载XiunenFont字体，假设放在webroot下的 fonts下面
 
+2 css @font-face引入字体，引入代码如下：
+		@font-face {
+			font-family: 'xiunen';
+			src: url('fonts/xiunen.eot');
+			src: local('☺'), url('fonts/xiunen.woff') format('woff'), url('fonts/xiunen.ttf') format('truetype'), url('fonts/xiunen.svg') format('svg');
+			font-weight: normal;
+			font-style: normal;
+		}
 
+3 使用其中的字体，现在提供了10个字，对应的字和class如下：
+
+![github](https://github.com/xiunen/XiunenFont/icon.jpg "github")  
 
 如何制作自己的字体
 -----------------------------

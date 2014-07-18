@@ -8,6 +8,7 @@ XiunenFont
 1 下载XiunenFont字体，假设放在webroot下的 fonts下面
 
 2 css @font-face引入字体，引入代码如下：
+
 		@font-face {
 			font-family: 'xiunen';
 			src: url('fonts/xiunen.eot');
